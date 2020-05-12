@@ -2,7 +2,7 @@ import java.util.Scanner;
 public class Diamond {
 
 	public static void main(String[] args) {
-		int n;
+		int n,m,h,k,l;
 		Scanner sc = new Scanner(System.in);
 		System.out.println("enter no of rows:");
 		n = sc.nextInt();
